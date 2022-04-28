@@ -13,6 +13,7 @@
 		1389A5182814586100296B80 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1389A5162814586100296B80 /* Main.storyboard */; };
 		1389A51A2814586300296B80 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1389A5192814586300296B80 /* Assets.xcassets */; };
 		1389A51D2814586300296B80 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1389A51B2814586300296B80 /* LaunchScreen.storyboard */; };
+		1389A52528145B1F00296B80 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1389A52428145B1F00296B80 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1389A5192814586300296B80 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1389A51C2814586300296B80 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1389A51E2814586300296B80 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1389A52428145B1F00296B80 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				1389A5102814586100296B80 /* AppDelegate.swift */,
 				1389A5122814586100296B80 /* SceneDelegate.swift */,
 				1389A5142814586100296B80 /* ViewController.swift */,
+				1389A52428145B1F00296B80 /* SecondViewController.swift */,
 				1389A5162814586100296B80 /* Main.storyboard */,
 				1389A5192814586300296B80 /* Assets.xcassets */,
 				1389A51B2814586300296B80 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1389A5152814586100296B80 /* ViewController.swift in Sources */,
+				1389A52528145B1F00296B80 /* SecondViewController.swift in Sources */,
 				1389A5112814586100296B80 /* AppDelegate.swift in Sources */,
 				1389A5132814586100296B80 /* SceneDelegate.swift in Sources */,
 			);
